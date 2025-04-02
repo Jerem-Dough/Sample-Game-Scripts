@@ -47,6 +47,12 @@ These scripts are not part of a standalone application. They are organized for e
   - PauseMenu: Toggles pause state and menu visibility
   - BulletManager: Controls object pooling and cleanup of projectiles
 
+To use a script:
+
+  1. Clone the repository: git clone https://github.com/Jerem-Dough/Game-Dev-Scripts.git
+  2. Copy desired files into your Unity project's Scripts/ directory
+  3. Attach scripts to GameObjects in the Unity Editor or use them in your systems
+
 ## **About Plamp Games**
 Plamp Games is a student-founded indie game studio currently developing a rhythm-based roguelike dungeon crawler.
 While our official website is under construction, we share early systems and tools here to document our progress and process.
