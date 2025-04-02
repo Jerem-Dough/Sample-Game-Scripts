@@ -55,5 +55,5 @@ These scripts are not part of a standalone application. They are organized for e
   3. Attach scripts to GameObjects in the Unity Editor or use them in your systems
 
 ## **About Plamp Games**
-Plamp Games is a student-founded indie game studio currently developing a rhythm-based roguelike dungeon crawler.
+Plamp Games is a student-founded indie game studio currently developing rhythm-based combat games.
 While our official website is under construction, we share early systems and tools here to document our progress and process.
