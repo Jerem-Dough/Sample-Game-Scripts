@@ -4,23 +4,13 @@ This repository contains sample C# scripts developed by Plamp Games, a student-l
 
 ## **Features**
 
+**Overview**
   - Core player systems: movement, controls, audio, and UI
-  - Enemy behavior: melee, ranged, bullets, and AI base logic
+  - Enemy behavior: melee, ranged, bullets, and base logic
   - Camera and environment interactions
   - Audio beat syncing and background music control
-  - Room management and basic procedural elements
+  - Room management and procedural elements
   - Modular, reusable components written in Unity’s C# framework
-
-## **Tech Stack**
-
-  - C# – Scripting language for Unity
-  - Unity Engine – Game engine for prototyping and testing
-  - Visual Studio – Code editor and debugger
-  - Plastic SCM - Version Control System
-
-## **Deployment**
-
-These scripts are not part of a standalone application. They are organized for easy integration into Unity projects:
 
 **Player Systems**
   - PlayerMovement: Handles directional movement and physics
@@ -37,7 +27,7 @@ These scripts are not part of a standalone application. They are organized for e
 **Camera & Environment**
   - CameraFollow: Keeps camera centered on the player
   - FaceCamera: Ensures UI or 3D elements face the player view
-  - RoomManager: Basic procedural room management
+  - RoomManager: Basic procedural room management, **currently used in our proprietary MapManager script**
 
 **Audio & Rhythm**
   - BackgroundMusicController: Plays and loops background tracks
@@ -47,7 +37,18 @@ These scripts are not part of a standalone application. They are organized for e
   - PauseMenu: Toggles pause state and menu visibility
   - BulletManager: Controls object pooling and cleanup of projectiles
 
-To use a script:
+## **Tech Stack**
+
+  - C# – Scripting language for Unity
+  - Unity Engine – Game engine for prototyping and testing
+  - Visual Studio – Code editor and debugger
+  - Plastic SCM - Version Control System
+
+## **Deployment**
+
+These scripts are not part of a standalone application. They are organized for easy integration into Unity projects:
+
+**To use a script:**
 
   1. Clone the repository: git clone https://github.com/Jerem-Dough/Game-Dev-Scripts.git
   2. Copy desired files into your Unity project's Scripts/ directory
