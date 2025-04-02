@@ -1,6 +1,6 @@
 ## **Sample Game Scripts**
 
-This repository contains sample C# scripts developed by Plamp Games, a student-led game development company. These scripts are used in various Unity-based prototypes and game projects, and serve as examples of common systems and features implemented during development.
+This repository contains sample C# scripts developed by Plamp Games, a student-led game development company. These scripts are used in our Unity-based prototypes and game projects, serving as examples of systems and features implemented during development.
 
 ## **Features**
 
